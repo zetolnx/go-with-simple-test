@@ -1,3 +1,3 @@
-module com.medellink8s.lhk26
+module github.com/zetogk/go-with-simple-test
 
 go 1.14
